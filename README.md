@@ -12,4 +12,4 @@ This is a simple React + Node.js app for online video streaming. Users can input
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-streaming-app.git
+   git clone https://github.com/mntg4u/online-stream.git
